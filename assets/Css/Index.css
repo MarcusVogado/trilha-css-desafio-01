@@ -25,7 +25,7 @@
 
 .nav-banner-fixed {
     display: flex;
-    border: 1px solid #33A8DB;   
+    border: 1px solid #33A8DB;
     justify-content: center;
     align-self: center;
     margin-right: 15px;
@@ -33,7 +33,7 @@
 
 .nav-banner-fixed img {
     height: 30px;
-    
+
 }
 
 .nav-banner-fixed a button {
@@ -43,10 +43,11 @@
     background-color: transparent;
     cursor: pointer;
 }
-.nav-banner-fixed a button:hover{
+
+.nav-banner-fixed a button:hover {
     height: 40px;
     width: 60px;
-} 
+}
 
 .banner .banner-content {
     margin: auto;
@@ -136,10 +137,11 @@
 #course-content .modules-list .module span {
     color: #33A8DB;
 }
-#course-content .modules-list .module:hover{
+
+#course-content .modules-list .module:hover {
     padding: 25px;
     font-size: 1.5rem;
-} 
+}
 
 #transform-world {
     height: 560px;
